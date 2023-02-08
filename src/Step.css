@@ -1,0 +1,9 @@
+label {
+    margin-right: 5px;
+}
+input {
+    width: 70px;
+}
+input::-webkit-inner-spin-button {
+    opacity: 1;
+}
